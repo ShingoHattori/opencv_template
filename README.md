@@ -1,4 +1,5 @@
 ## install opencv
+これだけで一応できるはず.
 
 ```bash
 sudo apt install libopencv-dev cmake make
